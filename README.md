@@ -13,7 +13,10 @@ Currently looking for a Frontend Internship or Junior Frontend Developer positio
 - JavaScript
 - TypeScript
 - Vue.js
+- HTML
+- CSS
 - Git
+- REST API
 
 ---
 
