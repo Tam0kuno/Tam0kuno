@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Rostislav 👋
 
-<!--
-**Tam0kuno/Tam0kuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer from Belarus.
 
-Here are some ideas to get you started:
+I'm a Software Development student passionate about building modern web applications with JavaScript and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently looking for a Frontend Internship or Junior Frontend Developer position.
+
+---
+
+## Tech Stack
+
+- JavaScript
+- TypeScript
+- Vue.js
+- React
+- Angular
+- Git
+
+---
+
+## Currently Learning
+
+- Node.js
+- Express
+- PostgreSQL
+
+---
+
+## Current Focus
+
+- Building responsive web applications
+- Writing clean and maintainable code
+- Improving frontend architecture
+- Learning backend development
+
+---
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/rostislav-avlasenok-a07199383
+- Telegram: https://t.me/tam0kuno
